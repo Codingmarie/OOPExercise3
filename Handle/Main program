@@ -4,7 +4,7 @@ package OOPExercise3;
  *
  * @author Codingmarie
  */
-public class Keyboard {
+public class Handle {
     
     private String function; //Attribute
     
